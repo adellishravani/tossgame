@@ -1,0 +1,45 @@
+.bg {
+  background-image: linear-gradient(to left, #e2a139, #f9d423, #a35200);
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: beige;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+.heading {
+  color: #e2a139;
+  font-size: 45px;
+}
+.para {
+  color: blue;
+  font-size: 20px;
+}
+.image {
+  height: auto;
+  width: 200px;
+}
+.btnn {
+  background-color: #e2a139;
+  color: #a35200;
+  border-radius: 5px;
+  padding: 8px;
+  align-self: center;
+}
+.total {
+  color: blue;
+  font-size: 15px;
+}
+.paradiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
